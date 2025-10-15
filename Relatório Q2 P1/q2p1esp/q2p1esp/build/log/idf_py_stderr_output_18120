@@ -1,0 +1,12 @@
+fatal: detected dubious ownership in repository at '/opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3
+fatal: detected dubious ownership in repository at '/opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3
+fatal: detected dubious ownership in repository at '/opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3/components/openthread/openthread'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /opt/riscv/Espressif-IDE/esp_idf/esp-idf-v5.3/components/openthread/openthread
